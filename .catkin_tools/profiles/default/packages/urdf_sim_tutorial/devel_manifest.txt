@@ -1,0 +1,5 @@
+urdf_tutorial
+/home/laptop/catkin_ws/devel/.private/urdf_sim_tutorial/cmake.lock /home/laptop/catkin_ws/devel/./cmake.lock
+/home/laptop/catkin_ws/devel/.private/urdf_sim_tutorial/share/urdf_sim_tutorial/cmake/urdf_sim_tutorialConfig.cmake /home/laptop/catkin_ws/devel/share/urdf_sim_tutorial/cmake/urdf_sim_tutorialConfig.cmake
+/home/laptop/catkin_ws/devel/.private/urdf_sim_tutorial/share/urdf_sim_tutorial/cmake/urdf_sim_tutorialConfig-version.cmake /home/laptop/catkin_ws/devel/share/urdf_sim_tutorial/cmake/urdf_sim_tutorialConfig-version.cmake
+/home/laptop/catkin_ws/devel/.private/urdf_sim_tutorial/lib/pkgconfig/urdf_sim_tutorial.pc /home/laptop/catkin_ws/devel/lib/pkgconfig/urdf_sim_tutorial.pc
